@@ -1,0 +1,2 @@
+﻿  glad.c
+C:\Users\vitor\OneDrive\Área de Trabalho\Henrique\CGCCHibrido-main\CGCCHibrido-main\Hello3D\glad.c(24,10): error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
